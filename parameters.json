@@ -1,0 +1,7 @@
+{
+    "archi_file": "architecture.txt",
+    "batch_size": 128,
+    "max_epochs": 30,
+    "learning_rate": 1e-4,
+    "lambda": 1e-3
+}

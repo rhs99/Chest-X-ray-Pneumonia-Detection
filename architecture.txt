@@ -1,0 +1,19 @@
+Conv 2 3 1 0
+ReLU
+MaxPool 2 2 0
+Conv 4 3 1 0
+ReLU
+MaxPool 2 2 0
+Conv 8 3 1 0
+ReLU
+MaxPool 2 2 0
+Conv 16 3 1 0
+ReLU
+MaxPool 2 2 0
+Conv 32 3 1 0
+ReLU
+MaxPool 2 2 0
+Flatten
+FC 64
+ReLU
+FC 3

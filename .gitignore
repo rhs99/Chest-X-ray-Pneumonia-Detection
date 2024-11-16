@@ -1,0 +1,15 @@
+env
+.idea
+.vscode
+**/__pycache__/
+lightning_logs
+archs
+saved_models
+chest_xray
+miscellaneous
+dummy_data
+uniform_xray
+xray_299
+xray_300_420
+setup.sh
+logs*.csv
